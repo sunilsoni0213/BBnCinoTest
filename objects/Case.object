@@ -224,7 +224,7 @@
         </displayedFields>
         <displayedFields>
             <field>Description</field>
-            <isFieldManaged>false</isFieldManaged>
+            <isFieldManaged>true</isFieldManaged>
             <isRequired>false</isRequired>
         </displayedFields>
         <label>nCino_User_Interface_Test</label>
