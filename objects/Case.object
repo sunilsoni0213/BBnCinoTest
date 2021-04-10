@@ -279,7 +279,7 @@
     </fields>
     <fields>
         <fullName>Description</fullName>
-        <trackHistory>true</trackHistory>
+        <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
